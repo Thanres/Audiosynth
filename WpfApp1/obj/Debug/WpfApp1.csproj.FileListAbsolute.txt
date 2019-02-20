@@ -1,0 +1,51 @@
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.dll
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.Tools.dll
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.xml
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.Tools.xml
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Jan\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Jan\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\OxyPlot.dll
+C:\Users\Jan\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Jan\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\OxyPlot.pdb
+C:\Users\Jan\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\OxyPlot.xml
+C:\Users\Jan\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Jan\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Jan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\OxyPlot.dll
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\OxyPlot.pdb
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\OxyPlot.xml
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Jan\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache

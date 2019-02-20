@@ -1,0 +1,38 @@
+
+/ <- trennung aufnahmen
+
+[0]
+
+[0]SpineBase		|X(pixel)|Y(pixel)|Z(meter)   BSP: x ausgeben array[0][0][0]
+[1]SpineMid			|X(pixel)|Y(pixel)|Z(meter)
+[2]Neck				|X(pixel)|Y(pixel)|Z(meter)
+[3]Head				|X(pixel)|Y(pixel)|Z(meter)
+[4]ShoulderLeft		|X(pixel)|Y(pixel)|Z(meter)
+[5]ElbowLeft		|X(pixel)|Y(pixel)|Z(meter)
+[6]WristLeft		|X(pixel)|Y(pixel)|Z(meter)
+[7]HandLeft			|X(pixel)|Y(pixel)|Z(meter)
+[8]ShoulderRight	|X(pixel)|Y(pixel)|Z(meter)
+[9]ElbowRight		|X(pixel)|Y(pixel)|Z(meter)
+[10]WristRight		|X(pixel)|Y(pixel)|Z(meter)
+[11]HandRight		|X(pixel)|Y(pixel)|Z(meter)
+[12]HipLeft			|X(pixel)|Y(pixel)|Z(meter)
+[13]KneeLeft		|X(pixel)|Y(pixel)|Z(meter)
+[14]AnkleLeft		|X(pixel)|Y(pixel)|Z(meter)
+[15]FootLeft		|X(pixel)|Y(pixel)|Z(meter)
+[16]HipRight		|X(pixel)|Y(pixel)|Z(meter)
+[17]KneeRight		|X(pixel)|Y(pixel)|Z(meter)
+[18]AnkleRight		|X(pixel)|Y(pixel)|Z(meter)
+[19]FootRight		|X(pixel)|Y(pixel)|Z(meter)
+[20]SpineShoulder	|X(pixel)|Y(pixel)|Z(meter)
+[21]HandTipLeft		|X(pixel)|Y(pixel)|Z(meter)
+[22]ThumbLeft		|X(pixel)|Y(pixel)|Z(meter)
+[23]HandTipRight	|X(pixel)|Y(pixel)|Z(meter)
+[24]ThumbRight		|X(pixel)|Y(pixel)|Z(meter)
+
+- <- trennung körper
+
+[1]
+
+.
+.
+.

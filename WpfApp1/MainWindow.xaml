@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:y="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:oxy="http://oxyplot.org/wpf"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        MinWidth="{ Binding ElementName=image,Mode=OneWay, Path=ActualWidth }"
+        MinHeight="400"
+        Title="MainWindow" Height="492.885" Width="525">
+
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="277*"/>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="200*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Black" BorderThickness="1" Grid.Row="0"  VerticalAlignment="Center" Margin="0,0,0,0" Background="Black" y:Name="record">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image y:Name="image" Grid.Column="1" Source="{Binding ImageSource}" Stretch="UniformToFill" />
+            </Grid>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center"  Grid.Row="0"  VerticalAlignment="Center">
+            <Image Source="{Binding Bodysource}" Stretch="Uniform"/>
+        </Border>
+        <Grid  Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <Button y:Name="btnStart" Content="Start" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="Auto" Height="Auto"  Click="btnStart_Click" Background="#AAA" />
+            <Button y:Name="btnrectype" Content="Use Savedata" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="Auto" Height="Auto"  Click="btnrectype_Click" Background="#AAA" />
+        </Grid>
+        <Border Grid.Row="2" Margin="0,0,0,0" Background="	#555555">
+            <oxy:PlotView Model="{Binding DataPlot}" Margin="0,0,25,0" Background="Transparent" />
+        </Border>
+    </Grid>
+</Window>
